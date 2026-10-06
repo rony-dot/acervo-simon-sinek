@@ -1,0 +1,4 @@
+transcricoes/raw/*.json3
+transcricoes/raw/*.vtt
+.DS_Store
+transcricoes/raw-shorts/*.json3

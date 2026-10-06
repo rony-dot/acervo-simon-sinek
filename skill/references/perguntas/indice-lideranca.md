@@ -1,0 +1,43 @@
+# Índice de perguntas — Liderança
+
+39 fichas de pergunta e resposta. Cada linha: id, pergunta, palavras de busca e o arquivo onde está a ficha completa.
+
+- **LI-001** O que faz de alguém um bom líder, já que fui promovido por ser bom no meu trabalho? — *definição de liderança, human skills, promoção, feedback, escuta ativa, aprendizado contínuo, cargo* → `lideranca-1.md`
+- **LI-002** Estamos sob pressão e não tenho tempo para cuidar da cultura e das pessoas. O que faço? — *falta de tempo, crise, cultura, microgestão, preparar, pressão, confiança* → `lideranca-1.md`
+- **LI-003** Estar nos detalhes, como no founder mode, não é só um nome bonito para microgerenciar? — *microgestão, founder mode, detalhes, padrão de excelência, parceria, Airbnb, delegar* → `lideranca-1.md`
+- **LI-004** O que você fez, na prática, para o Airbnb sobreviver quando a pandemia levou 80% do negócio? — *crise, pandemia, Airbnb, demissões, comunicação, prioridade, coragem* → `lideranca-1.md`
+- **LI-005** Como saber quando o líder deve assumir e dar ordens, e quando deve recuar e ouvir? — *vácuo de liderança, decisão, comando e controle, Jocko Willink, SEALs, humildade, reunião* → `lideranca-1.md`
+- **LI-006** Qual é a diferença entre gerente e líder, e como desenvolver liderança como habilidade? — *gerente vs líder, liderança como habilidade, promoção, gestão de pessoas, autoridade, seguimento, aprender liderança* → `lideranca-1.md`
+- **LI-007** Quais são as três características que fazem um grande líder? — *traços de liderança, coragem, integridade, comunicação, carisma, ética, escuta* → `lideranca-1.md`
+- **LI-008** A liderança deve mudar quando a empresa passa por um período de pressão por desempenho ou crise? — *comando e controle, crise, Covid, estilo de liderança, confiança, pressão, fuzileiros* → `lideranca-1.md`
+- **LI-009** Como lidar com um time que resiste a uma mudança? — *mudança, resistência, medo, gestão da mudança, escuta, emoção, sentir-se ouvido* → `lideranca-1.md`
+- **LI-010** Existe liderança feminina? Mulheres lideram de um jeito diferente? — *liderança feminina, gênero, empatia, condicionamento social, duplo padrão, comando e controle, trabalho emocional* → `lideranca-1.md`
+- **LI-011** Por que o mesmo funcionário atende bem num lugar e mal em outro? — *atendimento, linha de frente, Four Seasons, ambiente de liderança, engajamento, amar o trabalho* → `lideranca-1.md`
+- **LI-012** Como cobrar resultado de alguém que não está batendo a meta? — *feedback, desempenho, meta, empatia, liderança, conversa difícil, cobrança* → `lideranca-1.md`
+- **LI-013** Quem foi o melhor líder que você já teve e o que ele te ensinou? — *melhor chefe, accountability, iniciativa, recompensa, autonomia, promoção, responsabilidade* → `lideranca-1.md`
+- **LI-014** Quando um líder pode ser duro e mandar sem consultar ninguém? — *comando e controle, estilo de liderança, crise, confiança, autoritarismo, contexto, militar* → `lideranca-1.md`
+- **LI-015** Como lidar com os privilégios que vêm com um cargo alto? — *privilégios, cargo, humildade, xícara de isopor, senioridade, liderança, ego* → `lideranca-1.md`
+- **LI-016** Como estimular uma cultura que assume riscos e faz grandes apostas? — *incentivo, comportamento, resultado, iniciativa, risco, inovação, promoção, cultura* → `lideranca-1.md`
+- **LI-017** Quem foi o melhor líder que você já teve e o que aprendeu com ele? — *melhor chefe, iniciativa, comportamento, accountability, responsabilidade, autonomia, promoção, exemplo* → `lideranca-2.md`
+- **LI-018** Como deixar de ser um gestor só de números e virar um líder que se importa de verdade? — *Bob Chapman, truly human leadership, filho precioso, cuidado, Leaders Eat Last, escuta empática, legado* → `lideranca-2.md`
+- **LI-019** Qual é a qualidade mais importante num líder? — *qualidade do líder, coragem, integridade, ética, responsabilidade, accountability, militares, assumir erros* → `lideranca-2.md`
+- **LI-020** Que conselho você dá a quem está começando uma empresa agora? — *empreendedor, pedir ajuda, não sei, confident ignorance, vulnerabilidade, credibilidade, fundador, segurança psicológica* → `lideranca-2.md`
+- **LI-021** Como fazer meus funcionários se sentirem vistos e ouvidos? — *reconhecimento, feedback, ser visto, engajamento, onboarding, sonhos, líder, elogio* → `lideranca-2.md`
+- **LI-022** Como um líder de uma empresa enorme mostra que se importa com quem está lá embaixo na hierarquia? — *salário de CEO, demissões, contrato social, Barry-Wehmiller, Leaders Eat Last, proteção, hierarquia* → `lideranca-2.md`
+- **LI-023** Fui promovido e sou melhor que meu time no trabalho deles; como não ficar consertando tudo? — *promoção, microgerenciamento, paciência, delegar, Chanel, novo líder, jogo longo* → `lideranca-2.md`
+- **LI-024** Sinto que minha carreira estabilizou e perdi o tesão. O que eu faço? — *estagnação, curva de aprendizado, não sei, vulnerabilidade, liderança, desafio, pedir ajuda* → `lideranca-2.md`
+- **LI-025** Se desenvolver pessoas funciona tão bem, por que tão poucos líderes fazem isso? — *desenvolvimento, sucessão, banco de reservas, David Marquet, curto prazo, delegar, Wooden, talento* → `lideranca-2.md`
+- **LI-026** Como liderar quando algo dá errado e os números caem de repente? — *crise, calma, pânico, IBM, mentalidade infinita, resultado ruim, comunicação, checklist* → `lideranca-2.md`
+- **LI-027** Como um líder otimista pode inspirar pessoas céticas? — *ceticismo, resistência, consistência, cultura, Barry-Wehmiller, paciência, mudança* → `lideranca-2.md`
+- **LI-028** Acolher as pessoas onde elas estão não significa abrir mão da cobrança? — *responsabilização, accountability, empatia, estrutura, prazos, moral, liderança* → `lideranca-2.md`
+- **LI-029** Como tomar decisões sem ter certeza de que estou certo? — *decisão, incerteza, confiança, opiniões fortes, humildade, debate, empreendedorismo* → `lideranca-2.md`
+- **LI-030** O CFO ou o COO é o sucessor natural do CEO? — *CEO, COO, CFO, sucessão, visionário, operador, C-suite, Apple* → `lideranca-2.md`
+- **LI-031** O que aprendemos sobre gentileza que vai além de ser educado? — *gentileza, kindness, generosidade, feedback, luto, receber, coragem, comunidade* → `lideranca-2.md`
+- **LI-032** Como um líder focado em números vira um líder que realmente cuida das pessoas? — *liderança humana, precious child, lente, paternidade, Bob Chapman, cuidado, stewardship* → `lideranca-2.md`
+- **LI-033** Como ajudar alguém do meu time que esconde erros e diz sim a tudo por medo de decepcionar? — *segurança psicológica, erro, people pleaser, experiência corretiva positiva, linguagem afirmativa, liderança, mentira, medo* → `lideranca-3.md`
+- **LI-034** Criei um time que depende de mim para tudo. Como reverter isso? — *dependência, autonomia, delegar, perguntas, liderança, escuta, cultura, mudança de comportamento* → `lideranca-3.md`
+- **LI-035** Qual é o melhor momento para dar feedback a alguém do time? — *timing, feedback, Força Aérea, comandante, debrief, cuidar das pessoas, desempenho* → `lideranca-3.md`
+- **LI-036** Como um líder deve admitir que tomou uma decisão errada sem perder credibilidade? — *erro, decisão errada, confiança, credibilidade, líder, mentalidade de crescimento, accountability* → `lideranca-3.md`
+- **LI-037** Como comunicar ao time uma mudança grande, como a adoção de IA, quando nem eu sei como vai terminar? — *comunicação de mudança, IA, positividade tóxica, confiança, incerteza, anúncio, transformação* → `lideranca-3.md`
+- **LI-038** O que é liderança, afinal? Ser promovido a chefe faz de mim um líder? — *definição de liderança, cargo, promoção, habilidade, responsabilidade, fundador, gestão* → `lideranca-3.md`
+- **LI-039** Como deixar de ser o fundador que precisa estar em toda reunião e aprender a delegar de verdade? — *delegar, microgerenciar, fundador, escala, platô, David Marquet, confiança, coaching* → `lideranca-3.md`
