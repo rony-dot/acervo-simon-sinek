@@ -1,26 +1,26 @@
 # Ganchos — Liderança
 
-Os 12 mais fortes do tema, de 107 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/lideranca.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 202 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/lideranca.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 
 
 ## Aberturas — para a primeira frase do vídeo
 
+- **O trabalho de verdade de um líder não é estar no comando. É cuidar de quem está sob o seu comando.**
+  *"The real job of a leader is not about being in charge. It's about taking care of those in our charge."*
+  *(The Real Job of a Leader, 18/04/2023)*
+  Liderar é responsabilidade pelas pessoas, não autoridade.
+
+- **Ninguém acorda de manhã querendo ser gerenciado. As pessoas acordam querendo ser lideradas.**
+  *"No one wakes up in the morning and wants to be managed. People wake up in the morning and they want to be led."*
+  *(You CAN'T Manage People, 20/12/2024)*
+  Processos se gerenciam; pessoas se lideram.
+
 - **Ninguém acorda de manhã querendo ser gerenciado. As pessoas acordam querendo ser lideradas.**
   *"No one wakes up in the morning and wants to be managed. People wake up in the morning and they want to be led."*
   *(Middle Managers True Leaders, 26/02/2025)*
   Processos se gerenciam; pessoas se lideram.
-
-- **A gente não precisa de mais mulheres líderes. Precisa de mais líderes que ajam como mulheres. As mulheres só calham de ser melhores nisso.**
-  *"We don't actually need more female leaders. What we need is more leaders who act like females, and women just happen to be better at that."*
-  *(Does Gender Change Leadership, 18/03/2025)*
-  Os traços importam mais que o gênero de quem lidera.
-
-- **Não existe líder especialista, assim como não existe pai especialista. Você é sempre aluno de liderança.**
-  *"There's no such thing as an expert leader, just like there's no such thing as an expert parent. You're always a student leader."*
-  *(Leadership Has To Be Learned, 11/06/2025)*
-  Liderança é prática contínua.
 
 
 ## Perguntas que prendem
@@ -33,15 +33,15 @@ Os 12 mais fortes do tema, de 107 garimpados nos vídeos do Simon. Cada um traz 
 
 ## Contraintuitivos
 
+- **A alta liderança não entende, como eu influencio eles? A resposta é: você não influencia. O que dá pra fazer é se responsabilizar por quem está à sua esquerda e à sua direita.**
+  *"Senior leadership doesn't get it, how do I influence them? The answer is: you don't. What we can do is take responsibility for the people to the left and to the right of us."*
+  *(How Can We Influence Senior Leadership?, 19/01/2023)*
+  Liderança se exerce em qualquer nível, e muda a organização de baixo para cima.
+
 - **As pessoas têm medo de mudança? Não têm. Elas têm medo de mudança repentina. Mudança gradual não ameaça ninguém. Evolução não ofende ninguém.**
   *"People fear change? No, they don't. People fear sudden change. Gradual change is not threatening. Evolution offends no one."*
   *(The Truth About Change, 07/03/2025)*
   A resistência não é à mudança em si, mas à ruptura súbita.
-
-- **Em lugar nenhum da ficha está escrito se eles chegaram do outro lado. Às vezes bons líderes fracassam e maus líderes têm sucesso.**
-  *"Nowhere on the grading sheet does it say whether they made it to the other side. Sometimes good leaders suffer mission failure, and sometimes bad leaders enjoy mission success."*
-  *(Power of Showing Up Now, 19/12/2025)*
-  Avalie a liderança pelo comportamento, não pelo último resultado.
 
 
 ## Frases de veredito
@@ -64,17 +64,17 @@ Os 12 mais fortes do tema, de 107 garimpados nos vídeos do Simon. Cada um traz 
 
 ## Casos e histórias
 
+- **Um analista disse: Garry, você não bateu seus números. E ele respondeu: não, meus números estão ótimos. Eu não bati os seus números.**
+  *"An analyst said: Garry, you missed your numbers. And he goes: no, my numbers are fine. I missed your numbers."*
+  *(Employee Growth is More Important than Company Growth, 21/12/2023)*
+  Paciência institucional com o crescimento das pessoas compensa no longo prazo.
+
+- **O Noah disse: no Four Seasons os gerentes passam e perguntam como eu estou. No outro hotel eles pegam a gente fazendo errado, então eu abaixo a cabeça e pego meu salário. Mesma pessoa.**
+  *"Noah said: at the Four Seasons the managers check in on me. At the other hotel the managers catch us doing things wrong, so I keep my head down and collect my paycheck. Same human being."*
+  *(Why Leadership Makes or Breaks Employee Satisfaction, 24/09/2024)*
+  O mesmo funcionário muda conforme o ambiente que a liderança cria.
+
 - **Perguntei a crianças de sete anos o que é um líder. Uma menina respondeu: é alguém que cuida das pessoas em volta. As crianças são mais espertas. A gente é que emburrece depois.**
   *"I asked seven-year-olds what a leader is. A girl said: a leader is somebody who looks after the people around them. Kids are smarter, and then we get dumb."*
   *(Flaw Becomes Your Edge, 05/03/2025)*
   A definição mais pura de liderança vem antes do cálculo adulto.
-
-- **A nossa experiência com o Noah nesses dois hotéis vai ser completamente diferente. Não por causa do Noah, mas por causa do ambiente de liderança em que ele trabalha.**
-  *"Our experience of Noah at these two different hotels will be profoundly different, not because of Noah, but because of the leadership environment in which he works."*
-  *(How You Lead, 25/04/2025)*
-  O mesmo funcionário entrega experiências opostas conforme o chefe.
-
-- **Quando desistem, eles tocam o sino e deixam o capacete no chão. Aí você vê o capacete de um oficial e, logo em seguida, o de três soldados.**
-  *"When they quit, they ring the bell and put their helmet on the ground. You see an officer's helmet, and immediately three enlisted guys right after him."*
-  *(Empathetic Leader, Gordon Schmidt, 01/07/2025)*
-  Quem os outros seguem na desistência revela quem é líder de verdade.

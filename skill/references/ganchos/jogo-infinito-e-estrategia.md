@@ -1,6 +1,6 @@
 # Ganchos — Jogo Infinito e Estratégia
 
-Os 12 mais fortes do tema, de 57 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/jogo-infinito-e-estrategia.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 83 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/jogo-infinito-e-estrategia.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 
@@ -23,15 +23,15 @@ Os 12 mais fortes do tema, de 57 garimpados nos vídeos do Simon. Cada um traz a
 
 ## Contraintuitivos
 
+- **As empresas dizem: Simon, a gente é mesmo o número um. E eu respondo: por enquanto. É só colocar por enquanto no fim de qualquer conquista.**
+  *"Companies say: Simon, we really are number one. And I'll say: for now. Just add for now to the end of any accomplishment."*
+  *(Business is an Infinite Game, 29/11/2022)*
+  No jogo infinito nenhuma posição, boa ou ruim, é definitiva.
+
 - **Concorrente só existe em jogo finito. O que você tem são rivais. E um rival à altura é o maior presente que você pode ganhar.**
   *"You only have competitors in finite games. These are rivals. And a worthy rival is the greatest gift you can be given."*
   *(Choice Makes Us Better, 10/07/2026)*
   A força do rival revela sua fraqueza e te obriga a melhorar.
-
-- **Num jogo infinito não existe competição, porque não existe ganhar ou perder. Os outros são jogadores, e alguns deles são rivais que valem a comparação.**
-  *"In an infinite game, there is no competition, because there's no winning and losing. They are other players, and some of those rivals are worthy of comparison."*
-  *(View Your Competitors, 04/04/2025)*
-  Trocar 'competidor' por Worthy Rival muda a atitude estratégica.
 
 
 ## Frases de veredito

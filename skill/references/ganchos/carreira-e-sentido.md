@@ -1,16 +1,16 @@
 # Ganchos — Carreira e Sentido
 
-Os 12 mais fortes do tema, de 94 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/carreira-e-sentido.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 149 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/carreira-e-sentido.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 
 
 ## Aberturas — para a primeira frase do vídeo
 
-- **Liguei para um amigo das forças especiais. Nem disse alô. Perguntei: o que você faz quando não consegue completar a missão?**
-  *"I called a friend in the Air Force special forces. I didn't even say hello. I said, what do you do when you can't complete the mission?"*
-  *(Almost Gave Up Book, 26/11/2025)*
-  Abre a história de como uma amizade fez Simon não desistir.
+- **Fugir do desconforto é a mesma coisa que decidir que você não quer crescer.**
+  *"To avoid discomfort is the same thing as deciding you don't want to grow."*
+  *(Discomfort is Necessary for Growth, 13/06/2022)*
+  Crescimento exige desconforto, inclusive pedir feedback crítico.
 
 
 ## Perguntas que prendem
@@ -38,11 +38,6 @@ Os 12 mais fortes do tema, de 94 garimpados nos vídeos do Simon. Cada um traz a
   *(Unhappy Brain, Mo Gawdat, 24/06/2025)*
   A solução vem do subconsciente depois, quando a mente divaga.
 
-- **Eu não acredito em bloqueio criativo. Acredito que o sistema que você usava para criar parou de funcionar.**
-  *"I don't believe in writer's block. I believe that the format or system that you're using to create in the past isn't working anymore."*
-  *(Brilliance of Boredom, 12/08/2025)*
-  Quando as ideias param, troque o método antes de se culpar.
-
 
 ## Frases de veredito
 
@@ -64,18 +59,23 @@ Os 12 mais fortes do tema, de 94 garimpados nos vídeos do Simon. Cada um traz a
 
 ## Analogias e imagens
 
+- **A gente não precisa gostar do trabalho todo dia. A gente pode amar ele todo dia. Você não gosta dos seus filhos todo dia. Você ama eles todo dia.**
+  *"We don't have to like our jobs every day. We get to love them every day. You don't like your kids every day. You love them every day."*
+  *(Discomfort is a Part of Being Human, 05/12/2022)*
+  Amor ao trabalho convive com dias ruins; desconforto faz parte.
+
 - **As pessoas planejam a rota, mas não têm destino. É como o vizinho que diz que vai viajar de férias, você pergunta para onde, e ele responde que vai pela rodovia tal.**
   *"People plan routes but they don't have a sense of destination. It's like your neighbor says 'vacation', and when you ask where, they tell you they're taking 95."*
   *(Manage Your Career, 11/04/2025)*
   Carreira sem destino quebra no primeiro desvio.
 
-- **Muita gente acha que só avança quem nunca para de ir pra frente. Mas é mais como um estilingue: em algum momento você recua, e aí dispara muito mais rápido.**
-  *"I think a lot of people think that if you only maintain forward momentum that's the only way to advance, but it's more like a slingshot: at some point you have to go back and then it fires forward a lot faster."*
-  *(Instincts Know What You Want, 02/09/2025)*
-  Recuar em dinheiro ou status pode ser o que acelera a próxima fase.
-
 
 ## Casos e histórias
+
+- **A Chanel tem uma regra: executivo sênior novo não pode falar em reunião nos primeiros 90 dias. Querem que você cale a boca e escute. A gente sabe que você é inteligente, a gente te contratou.**
+  *"Chanel has a rule: new senior executives are not allowed to speak in meetings for the first 90 days. They want you to shut up and listen. We know you're smart, we hired you."*
+  *(Sometimes, You Don't Have to Prove Yourself, 06/10/2023)*
+  Quem já foi escolhido não precisa provar nada; precisa escutar.
 
 - **Meu processo criativo são dias de culpa e autodepreciação, interrompidos por horas de puro brilho. O problema é que eu não sei quando essas horas vão aparecer.**
   *"My creative process is days of guilt and self-loathing punctuated by hours of sheer brilliance. The problem is I don't know when the hours will show up."*

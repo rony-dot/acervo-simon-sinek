@@ -116,7 +116,7 @@ Cada índice lista as fichas do tema, uma por linha, com o código (ex.: `LI-004
 
 ## Escrevendo roteiro com os ganchos
 
-**Ganchos para roteiro**: frases prontas em português falado, com a fala original e a fonte, em `ganchos/<tema>.md`, para os mesmos 12 temas das fichas.
+**Ganchos para roteiro**: 1.471 frases garimpadas nos vídeos e nos Shorts, em português falado, com a fala original e a fonte, em `ganchos/<tema>.md`, para os mesmos 12 temas das fichas.
 
 Quando o Rony pedir um roteiro, abra o arquivo de ganchos do tema. Cada arquivo começa pelas **aberturas**, que servem para a primeira frase do vídeo, e segue com perguntas, contraintuitivos, vereditos, analogias e casos.
 
@@ -132,4 +132,4 @@ Quando o Rony pedir um roteiro, abra o arquivo de ganchos do tema. Cada arquivo 
 - **Opinião datada envelhece.** Previsões sobre IA, política, mercado e cripto (sobretudo em `ia-e-futuro.md` e `negocios-e-capitalismo.md`) devem ser citadas sempre com a data.
 - **Contexto americano.** Exemplos de empresas, leis trabalhistas e cultura são dos EUA; a lógica se transpõe, os detalhes nem sempre.
 
-**Estado:** 193 vídeos da aba Vídeos, de 02/01/2025 a 02/10/2026, cerca de 78 horas. Os Shorts alimentam só o banco de ganchos.
+**Estado:** 193 vídeos da aba Vídeos, de 02/01/2025 a 02/10/2026, cerca de 78 horas. Os 408 Shorts com legenda (de 2022 a 2026) alimentam só o banco de ganchos: 1.471 ganchos no total, 871 dos vídeos e 600 dos Shorts.

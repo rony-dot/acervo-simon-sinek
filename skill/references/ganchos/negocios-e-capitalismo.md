@@ -1,6 +1,6 @@
 # Ganchos — Negócios e Capitalismo
 
-Os 12 mais fortes do tema, de 66 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/negocios-e-capitalismo.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 113 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/negocios-e-capitalismo.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 

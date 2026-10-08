@@ -1,6 +1,6 @@
 # Ganchos — Cultura e Time
 
-Os 12 mais fortes do tema, de 70 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/cultura-e-time.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 108 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/cultura-e-time.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 
@@ -12,18 +12,13 @@ Os 12 mais fortes do tema, de 70 garimpados nos vídeos do Simon. Cada um traz a
   *(Leaders Inspire Personal Growth, 31/01/2025)*
   O papel da empresa é fazer a pessoa sair melhor do que entrou.
 
-- **Hoje o jovem chega e diz: me paga mais que você vai ver do que eu sou capaz. E eu penso: não devia fazer alguma coisa primeiro?**
-  *"Kids now will come to me and be like, pay me more and you'll see what I can do. And I'm like, shouldn't you do something first?"*
-  *(Younger Workers Think Differently, 22/04/2026)*
-  O que parece entitlement é resposta racional a um mercado sem lealdade.
-
 
 ## Perguntas que prendem
 
-- **A pergunta que eu mais amo na avaliação dos Rangers: você dividiria uma trincheira com essa pessoa?**
-  *"My favorite question they ask on every evaluation: would you share a foxhole with this ranger?"*
-  *(Team Afraid to Tell You, 28/07/2026)*
-  Competência e caráter são coisas diferentes, e os pares enxergam o caráter.
+- **Eu odeio surpresas. Você pode me contar agora algo que pode dar errado, pra eu não ser pego de surpresa quando acontecer?**
+  *"I hate surprises. Can you tell me something that might go wrong now, so that I'm not surprised when it happens?"*
+  *(Simon Sinek's Top Interview Question | A Bit of Optimism #Podcast, 29/08/2024)*
+  Pedir ajuda ao candidato rende respostas mais honestas que perguntar pelo maior defeito.
 
 
 ## Contraintuitivos
@@ -60,6 +55,14 @@ Os 12 mais fortes do tema, de 70 garimpados nos vídeos do Simon. Cada um traz a
   *"It's strong teams that are successful, not strong individuals. This is the single most misunderstood thing in the private sector."*
   *(Empathetic Leader, Gordon Schmidt, 01/07/2025)*
   Empresas importam lições de elite e aplicam ao herói, não à equipe.
+
+
+## Analogias e imagens
+
+- **Não dá pra julgar a qualidade de uma tripulação pelo desempenho do navio em águas calmas. Só dá pra julgar em mar agitado.**
+  *"We can't judge the quality of a crew by how a ship performs in calm waters. We can only judge it by how the ship performs in rough waters."*
+  *(Difficulty Is The Test, 04/06/2024)*
+  A dificuldade é o verdadeiro teste de um time.
 
 
 ## Casos e histórias

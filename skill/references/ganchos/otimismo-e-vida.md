@@ -1,6 +1,6 @@
 # Ganchos — Otimismo e Vida
 
-Os 12 mais fortes do tema, de 65 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/otimismo-e-vida.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 122 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/otimismo-e-vida.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 
@@ -14,6 +14,11 @@ Os 12 mais fortes do tema, de 65 garimpados nos vídeos do Simon. Cada um traz a
 
 
 ## Perguntas que prendem
+
+- **Você vive de um jeito que um dia as pessoas vão dizer: eu sou uma versão melhor de mim porque você foi meu amigo?**
+  *"Do you live your life so that one day people would say: I am a better version of myself because you were my friend?"*
+  *(Am I Scared of Death?, 21/07/2023)*
+  O legado está em quem a gente ajudou a melhorar.
 
 - **A gente pensa em tudo sobre como trazer um filho ao mundo. E quase nada sobre como quer sair dele.**
   *"There's lots of thought on how to bring a child into this world and so little thought about how I would like to leave this world."*
@@ -60,14 +65,6 @@ Os 12 mais fortes do tema, de 65 garimpados nos vídeos do Simon. Cada um traz a
   *"Optimism is not naive, nor is it blind. It is the undying belief that the future is bright, but we can sit in hell and darkness and struggle."*
   *(How to Stay Optimistic, 02/05/2025)*
   Distingue otimismo de positividade.
-
-
-## Analogias e imagens
-
-- **Quando você chega ao topo da montanha que está escalando, está só na metade. Se achava que o objetivo era o topo, perdeu o ponto.**
-  *"When you get to the top of whatever mountain you're climbing, you're only halfway. If you thought the goal was to get to the top, you've missed the point."*
-  *(Real Reason You Feel Empty, 05/05/2026)*
-  O objetivo é ter paz na subida e na descida.
 
 
 ## Casos e histórias

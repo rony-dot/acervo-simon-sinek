@@ -1,6 +1,6 @@
 # Ganchos — Propósito e Por Quê
 
-Os 12 mais fortes do tema, de 53 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/proposito-e-por-que.md` na raiz do repositório.
+Os 12 mais fortes do tema, de 86 garimpados nos vídeos do Simon. Cada um traz a versão em português falado (em negrito), a fala original e a fonte. Banco completo: `ganchos/proposito-e-por-que.md` na raiz do repositório.
 
 **Crédito:** ao usar, cite o Simon Sinek (ou o convidado indicado). As adaptações em português não acrescentam ideia ao original.
 
@@ -28,20 +28,20 @@ Os 12 mais fortes do tema, de 53 garimpados nos vídeos do Simon. Cada um traz a
 
 ## Contraintuitivos
 
+- **A própria definição de dom é algo pra ser dado. Se você tem um dom e não compartilha, eu acho que você só está sendo egoísta.**
+  *"The very definition of a gift is it's supposed to be given. If you have a gift and you're not sharing it, I think you're just selfish."*
+  *(You Have a Gift—Go Share It!, 09/12/2023)*
+  Talento guardado é desperdício; servir dá sentido.
+
+- **As pessoas confundem propósito com meta. Meu propósito era ter um hit número um? Isso não é propósito, é meta. Propósito não se alcança. Você avança em direção a ele, você vive ele.**
+  *"People confuse purpose and goals. My purpose was to have a number one hit? Those aren't purposes, those are goals. You can't achieve a purpose. You can advance towards it, you can live it."*
+  *(Purpose vs. Goals | A Bit of Optimism #Podcast, 20/09/2024)*
+  Quem confunde meta com propósito fica vazio ao atingir a meta.
+
 - **Minha regra sempre foi não tentar convencer quem não quer ser convencido. Porque a única coisa que vai acontecer é briga.**
   *"My rule has never been to try and convince people who don't want to be convinced, because all you're going to do is fight."*
   *(How to Create Change, 05/02/2025)*
   Mudança começa pelos early adopters, não pelos resistentes.
-
-- **Nenhum quadro dos sonhos tem foto de criança inspirada. Todos têm a pessoa no pódio, com a medalha de ouro no pescoço.**
-  *"Not a single vision board has pictures of inspired children. All the vision boards are them standing on podiums with gold medals around their necks."*
-  *(Climb Out of Pain Pt1, 22/04/2025)*
-  Desmascara o discurso de propósito que é só meta.
-
-- **Qual é o meu porquê do trabalho e qual é o pessoal? Não: você tem um porquê só. Mas o meu porquê mudou. Não mudou, não.**
-  *"What's my work why and what's my personal why? No, you have one why. Well, my why has changed. No, it hasn't."*
-  *(Authenticity Starts With WHY, 21/08/2025)*
-  O WHY é um só e se forma até o fim da adolescência.
 
 
 ## Frases de veredito
@@ -67,6 +67,11 @@ Os 12 mais fortes do tema, de 53 garimpados nos vídeos do Simon. Cada um traz a
 
 ## Casos e histórias
 
+- **O Phil Knight disse: na próxima vez que você estiver correndo antes do sol nascer, no escuro, no frio, na chuva, sozinho, somos nós ali embaixo do poste torcendo por você.**
+  *"Phil Knight said: the next time you're out there before the sun is up, it's dark, cold and wet, and you're running alone, we're the ones under the lamppost cheering you on."*
+  *(Celebrate the ones who DO, not the ones who WIN, 07/10/2022)*
+  Uma história bem contada traduz o porquê de uma marca num instante.
+
 - **Levaram um dos bolsistas para conversar com os voluntários por cinco minutos. O desempenho disparou. Ficou pessoal.**
   *"They brought in one of the scholarship recipients to talk to the volunteers for five minutes, and all of a sudden performance skyrocketed. It became deeply personal."*
   *(Make It Personal, 19/04/2025)*
@@ -76,8 +81,3 @@ Os 12 mais fortes do tema, de 53 garimpados nos vídeos do Simon. Cada um traz a
   *"Michael Phelps becomes the most medaled Olympian in history, immediately depression. Because they confuse purpose with a goal."*
   *(Climb Out of Pain Pt1, 22/04/2025)*
   Meta atingida não sustenta sentido.
-
-- **Eles tiraram o cigarro das lojas. Era receita de bilhões de dólares, não milhões, bilhões. E Wall Street enlouqueceu.**
-  *"They pulled cigarettes. This was billions of dollars worth of revenues, not millions, billions. And Wall Street went nuts."*
-  *(Short-Term Mistake CVS, 25/09/2026)*
-  Propósito de verdade aparece na decisão que custa caro.

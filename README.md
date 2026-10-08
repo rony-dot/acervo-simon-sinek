@@ -45,7 +45,7 @@ Medido em 05/10/2026:
 | `transcricoes/raw/` | Legendas dos vídeos (fora do git), o conversor e `episodios.txt`. |
 | `transcricoes/raw-shorts/` | Legendas dos shorts (fora do git) e `shorts.txt`. |
 | `skill/` | O skill destilado: referências temáticas, ganchos e fichas de pergunta e resposta. |
-| `ganchos/` | Banco completo de ganchos por tema, com versão em português, fala original, fonte e força. |
+| `ganchos/` | Banco completo de 1.471 ganchos (871 dos vídeos, 600 dos Shorts) por tema, com versão em português, fala original, fonte e força. |
 | `perguntas/fichas.jsonl` | As fichas de pergunta e resposta, uma por linha, para uso por script. |
 | `atualizar-acervo.sh` | **Uso normal.** Baixa os vídeos novos desde a última transcrição. |
 | `baixar-shorts.sh` | Baixa os shorts novos (ou todos). Roda em rodadas, resistente a bloqueio. |

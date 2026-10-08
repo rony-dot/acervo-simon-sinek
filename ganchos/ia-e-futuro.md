@@ -1,6 +1,6 @@
 # Banco de ganchos — IA e Futuro
 
-Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ctrl+F para buscar por palavra. Força vai de 2 (apoio) a 5 (abre um vídeo). A seleção dos melhores está em `skill/references/ganchos/ia-e-futuro.md`.
+Todos os 66 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ctrl+F para buscar por palavra. Força vai de 2 (apoio) a 5 (abre um vídeo). A seleção dos melhores está em `skill/references/ganchos/ia-e-futuro.md`.
 
 
 ## Aberturas — para a primeira frase do vídeo
@@ -37,6 +37,11 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"They say we won't need celebrities anymore because AI can use their voices. Okay, but what happens when there's no more celebrities? The celebrities had to do the work."*
   *(Young People Hunger, 28/04/2026)* · força 3
   A IA vive de um acervo humano que precisa continuar sendo formado.
+
+- **Quanta autonomia a gente tem, ou somos só peões no jogo entre três grandes empresas de IA?**
+  *"How much agency do we have, or are we just pawns in this game between three major AI companies?"*
+  *(Your Agency in the AI Age, 20/06/2026)* · força 3
+  A resposta: agência começa no uso que cada um faz.
 
 
 ## Contraintuitivos
@@ -116,6 +121,11 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Real Life Experiences AI, 12/08/2026)* · força 4
   Até a discussão sobre tecnologia é, no fundo, humana.
 
+- **Golfinhos têm nomes pelos quais se chamam. Os humanos transmitem cultura pela voz há no máximo 300 mil anos. Baleias e golfinhos fazem isso há 34 milhões.**
+  *"Dolphins have names they call each other by. Humans have been passing down culture vocally for 300,000 years tops. Whales and dolphins have been doing this for 34 million years."*
+  *(Talking to Animals with Aza Raskin | A Bit of Optimism, 21/11/2023)* · força 3 · fala de Aza Raskin
+  Falar com animais é, antes, aprender a escutar a natureza.
+
 
 ## Frases de veredito
 
@@ -148,6 +158,16 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"At the end of the day, we are human beings who work with human beings, who sell to human beings. And if you don't understand people, you don't understand business."*
   *(One Thing Every Leader, 29/07/2026)* · força 5
   Toda tecnologia passa; as pessoas continuam no centro do negócio.
+
+- **O ChatGPT vai fazer primeiros rascunhos meia-boca. Ele não tem pensamento original, só regurgita o que já foi escrito. Se você tem pensamento original, está totalmente seguro.**
+  *"ChatGPT is going to do shitty first drafts. It cannot do original thought, it can only regurgitate what's already been written. If you have original thought, you're completely safe."*
+  *(Will ChatGPT Replace Jobs? | Simon Sinek, 27/02/2023)* · força 4
+  A IA aumenta o valor de quem edita e de quem pensa original.
+
+- **Quando a gente começou o Reddit em 2005, nenhum dos criadores das redes sociais imaginava o papel que elas teriam hoje. Hoje ninguém pode alegar ignorância, principalmente na era da IA.**
+  *"When we started Reddit in 2005, none of the original creators of social media could conceive of the role it plays today. No one is ignorant to that today, especially in this age of AI."*
+  *("No one is ignorant to that today." | Alexis Ohanian on A Bit of Optimism #Podcast, 15/11/2024)* · força 4 · fala de Alexis Ohanian
+  Fundadores de IA não têm mais a desculpa de não saber o impacto.
 
 - **Isso não é um chatbot bobinho te ajudando a escrever um trabalho. É: eu corro para leste ou para oeste quando sair de casa?**
   *"This isn't a silly chatbot helping you write a paper. This is: do I run east or west when I leave my house."*
@@ -184,10 +204,40 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Savannah Bananas Waitlist, 14/04/2026)* · força 4
   Suicídio é resposta à solidão; experiências reais de conexão são o antídoto.
 
+- **Acho que estamos no momento mais crítico: se a gente não aprender isso de propósito, nunca vai aprender.**
+  *"I think we are in the most critical time that if we don't learn it on purpose, we never will."*
+  *(We're Forgetting How To Be Human | Simon Sinek and Vanessa Van Edwards | A Bit of Optimism Podcast, 19/05/2026)* · força 4 · fala de Vanessa Van Edwards
+  A tecnologia eliminou os lugares seguros onde se praticava ser humano.
+
+- **A IA pode fingir que se conecta. Pode encenar empatia, mas não pode fazer. E o fazer é o que nos separa.**
+  *"AI can pretend to connect. It can perform these acts of empathy, but it cannot do. And the doing is the thing that separates us."*
+  *(AI Chatbots Are NOT a Real Friend | Simon Sinek + Trevor Noah, 07/06/2026)* · força 4 · fala de Trevor Noah
+  Amigo de verdade age; IA só performa.
+
 - **Empatia exige sentir o que o outro sente. Gentileza exige fazer alguma coisa a respeito.**
   *"Empathy requires you to feel what somebody else is feeling. Kindness requires you to do something about it."*
   *(Trevor Noah on Kindness, 12/06/2026)* · força 4 · fala de Trevor Noah
   Sentir sem agir não é gentileza; por isso a IA só performa empatia.
+
+- **A IA é bajuladora. Se você debate com ela, ela vai concordar com você. Então você precisa mandar ela agir como crítica.**
+  *"The AI is sycophantic. If you're having a debate with it, it's going to agree with you. So you have to tell it to act like a critic."*
+  *(There Are Better Ways to Work With AI | Simon Sinek + Ethan Mollick | A Bit of Optimism Podcast, 16/06/2026)* · força 4 · fala de Ethan Mollick
+  Usar a IA para fortalecer o pensamento, não para confirmar.
+
+- **O plano padrão perigoso é: se eu demitir todo mundo e trocar por IA, o lucro vai subir.**
+  *"The dangerous default plan is: if I fire everyone and replace them with AI, profits will be higher."*
+  *(Your Agency in the AI Age, 20/06/2026)* · força 4 · fala de Ethan Mollick
+  A agência está em usar a IA para fazer as pessoas prosperarem.
+
+- **A gente está tão obcecado pelo resultado que esqueceu o valor do processo. Não quero que as pessoas só digam a coisa perfeita. Quero que saibam por que escolhem essas palavras.**
+  *"We're so obsessed with the end result that we've forgotten the value of the process. I don't want people to just say the perfect thing. I want them to know why they're choosing those words."*
+  *(Process Over Perfection, 24/08/2026)* · força 4
+  A IA pode ajudar, mas o esforço do processo é o que nos melhora.
+
+- **No fim das contas, somos seres humanos que trabalham com seres humanos e vendem para seres humanos.**
+  *"At the end of the day, we are human beings who work with human beings who sell to human beings."*
+  *(Business Is ALWAYS Human | Simon Sinek, 31/08/2026)* · força 4
+  Toda tecnologia disruptiva esquece as pessoas quando se encanta consigo mesma.
 
 - **Tecnologia não resolve problema humano. Tecnologia não substitui um amigo.**
   *"Technology doesn't solve human problems. Technology won't replace a friend."*
@@ -198,6 +248,11 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"I for one believe that doubling down on human is going to become even more important now, because we still have to take care of the people who are working on the products with their AI agents."*
   *(AI Skills Nobody Teaches, 16/06/2026)* · força 3
   Menos pessoas no time não elimina ego, insegurança e cansaço para liderar.
+
+- **Pra cada problema que a tecnologia cria, a própria tecnologia tem uma solução. A gente vive num mundo em que perdeu a confiança em quase tudo.**
+  *"For every problem technology creates, technology also has a solution. We live in a world where we have lost trust in almost everything."*
+  *(A New Paradigm for Trust with entrepreneur Yat Siu | A Bit of Optimism, 14/11/2023)* · força 2 · fala de Yat Siu
+  A aposta de que blockchain pode recriar confiança.
 
 
 ## Analogias e imagens
@@ -211,6 +266,11 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"If we keep removing all the struggle, all the work, arguably you could live a life of 10 years and have a gut filled with cobwebs and flies."*
   *(Instincts Know What You Want, 02/09/2025)* · força 4
   O instinto é educado pela experiência; sem processo, ele fica vazio.
+
+- **Muita enfermeira não é simpática. Mas é gentil. E se fosse o contrário, só empatia e nada de ação? 'Ai, imagino como você deve estar se sentindo.'**
+  *"A lot of nurses are not nice. But they're kind. What if they specialized in empathy but not kindness? Oh, I can only imagine how you must feel."*
+  *(AI Chatbots Are NOT a Real Friend | Simon Sinek + Trevor Noah, 07/06/2026)* · força 4 · fala de Trevor Noah
+  Empatia sem ação é o que a IA oferece.
 
 - **Ninguém quer um computador cuspindo o diagnóstico correto. Você quer um médico que segure sua mão e diga: tenho uma notícia difícil.**
   *"You don't want a computer to just spit out the answer of what it accurately diagnosed you with. You want a doctor to hold your hand and say, 'I've got some really hard news.'"*
@@ -264,6 +324,26 @@ Todos os 50 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"She goes, thank you so much. Did you get that from ChatGPT? And if you say yes, you're back to being in a fight again."*
   *(Building Real Trust, 13/05/2026)* · força 4
   O que conserta uma relação é a sinceridade, não as palavras certas.
+
+- **Se preciso de açúcar, não vou mais na vizinha, peço no aplicativo. Eu ligava para minha mãe quando tinha dúvida. Agora não quero incomodar e pergunto para a IA.**
+  *"If I need sugar, I'm not going to a neighbor, I'm ordering it on an app. I used to call my mom with a question. Now I don't want to bother her, so I ask AI."*
+  *(We're Forgetting How To Be Human | Simon Sinek and Vanessa Van Edwards | A Bit of Optimism Podcast, 19/05/2026)* · força 4 · fala de Vanessa Van Edwards
+  Perdemos as pequenas interações que treinavam habilidades sociais.
+
+- **A Amazon está fechando as lojas em que você entrava, não falava com ninguém e saía. A gente quer perguntar para uma pessoa: com licença, onde fica a manteiga de amendoim?**
+  *"Amazon is closing its stores where you could go in, not talk to anybody, and leave. We want to ask a human being: excuse me, where's the peanut butter?"*
+  *(Practice Your Humanity, 07/09/2026)* · força 4
+  As pessoas estão buscando experiências reais com gente.
+
+- **Até hoje a Disney World, na Flórida, tem licença para construir e operar uma usina nuclear.**
+  *"To this day, Disney World in Florida has a license to build and operate a nuclear power plant."*
+  *(A Nuclear Future? | A Bit of Optimism #Podcast, 20/08/2025)* · força 3 · fala de Isabelle Boemeke
+  A primeira impressão de uma tecnologia molda sua marca por décadas.
+
+- **Eu peço para a IA ler meu texto como um especialista querendo me detonar nas redes. Onde ele pegaria no pé dos meus argumentos?**
+  *"I have the AI read my writing as an expert who is out to get me on social media. Where would they nitpick my arguments?"*
+  *(There Are Better Ways to Work With AI | Simon Sinek + Ethan Mollick | A Bit of Optimism Podcast, 16/06/2026)* · força 3 · fala de Ethan Mollick
+  Personas diferentes trazem críticas que você não teria.
 
 - **A Amazon está fechando as lojas em que você entra e sai sem falar com ninguém. A gente quer perguntar para alguém onde fica a manteiga de amendoim.**
   *"Amazon is closing its retail stores where you could just go in, not talk to anybody and leave. We want to talk to a human being who's stocking the shelves."*

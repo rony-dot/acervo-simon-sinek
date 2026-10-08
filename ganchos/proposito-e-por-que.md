@@ -1,9 +1,14 @@
 # Banco de ganchos — Propósito e Por Quê
 
-Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ctrl+F para buscar por palavra. Força vai de 2 (apoio) a 5 (abre um vídeo). A seleção dos melhores está em `skill/references/ganchos/proposito-e-por-que.md`.
+Todos os 86 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ctrl+F para buscar por palavra. Força vai de 2 (apoio) a 5 (abre um vídeo). A seleção dos melhores está em `skill/references/ganchos/proposito-e-por-que.md`.
 
 
 ## Aberturas — para a primeira frase do vídeo
+
+- **A gente confundiu as emoções fortes da vida com a alegria da vida. Nenhuma emoção que eu pudesse comprar ou conquistar chegou perto da sensação de servir ao outro.**
+  *"We've confused the thrills of life with the joy of life. No thrill that I could buy or achieve was ever able to replicate the feeling of service to another."*
+  *(The Thrills of Life Are Not the Same as the JOY of Life  | A Bit of Optimism, 27/02/2024)* · força 5 · fala de Scott Harrison
+  Alegria duradoura vem do serviço, não da adrenalina.
 
 - **Pegue um amigo que você ama e que te ama, daqueles que estariam com você às três da manhã. E faça só uma pergunta: por que a gente é amigo?**
   *"Find a friend you love and who loves you, the kind who'd be there at 3 in the morning. And simply ask them this question: Why are we friends?"*
@@ -48,6 +53,16 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Not Blow the Deal, 18/09/2025)* · força 5
   Falar só de você afasta no amor e afasta na venda.
 
+- **Faz isso com um melhor amigo e pergunta uma coisa simples: por que a gente é amigo?**
+  *"Do it with a best friend and ask them the simple question: why are we friends?"*
+  *(Discovering our WHY, 22/11/2022)* · força 4
+  O amigo, ao descrever o valor que você tem na vida dele, revela seu porquê.
+
+- **Posso te ensinar agora um jeito divertido de achar seu porquê. Pergunta pra um amigo: por que a gente é amigo? Ele vai te olhar como se você fosse louco.**
+  *"I can teach you a fun way to find your why right now. Ask a friend the simple question: why are we friends? They're going to look at you like you're insane."*
+  *("Why are we friends?" | A Quick Way to #StartWithWHY, 04/04/2024)* · força 4
+  O amigo descreve o valor que você tem na vida dele, e isso é seu porquê.
+
 - **Encontra um amigo que você ama e que te ama, e faz essa pergunta: por que a gente é amigo?**
   *"Find a friend you love and who loves you, and you ask them this question: why are we friends?"*
   *(Authenticity Starts With WHY, 21/08/2025)* · força 4
@@ -73,8 +88,38 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Nintendo Embraces Change, 27/03/2026)* · força 4
   Indústrias que protegem o modelo de negócio perdem a inovação para quem está de fora.
 
+- **Encontre um amigo que você ama e faça só esta pergunta: por que a gente é amigo?**
+  *"Find a friend you love and simply ask them this question: why are we friends?"*
+  *(Our WHY and Our Friends | Simon Sinek, 16/05/2026)* · força 4
+  O exercício dos amigos ajuda a descobrir o porquê.
+
+- **Toda empresa tem uma declaração de propósito no site. Mas quantas usam isso de verdade como filtro para contratar e decidir?**
+  *"Every company has a purpose statement on their website. But how many actually use it as a filter for hiring and making decisions?"*
+  *(Most Mission Statements Are Meaningless, 14/06/2026)* · força 4
+  Propósito na parede não é propósito em ação.
+
+- **Muitos de nós misturamos a identidade com o trabalho. E se eu não gosto do meu trabalho, então quem eu sou?**
+  *"So many of us intertwined our identities with our work. And if I don't like my work, then who am I?"*
+  *(Discover Your Mojo, 25/05/2023)* · força 3
+  A crise de sentido levou à descoberta do Círculo Dourado.
+
+- **Que tipo de mundo você está tentando construir? Não me diga entretenimento. Isso toda empresa de entretenimento diz.**
+  *"What kind of world are you trying to build? Don't tell me entertainment. That's every entertainment company."*
+  *(What's Your Origin Story?, 26/09/2026)* · força 3
+  Visão diferencia; categoria não.
+
 
 ## Contraintuitivos
+
+- **A própria definição de dom é algo pra ser dado. Se você tem um dom e não compartilha, eu acho que você só está sendo egoísta.**
+  *"The very definition of a gift is it's supposed to be given. If you have a gift and you're not sharing it, I think you're just selfish."*
+  *(You Have a Gift—Go Share It!, 09/12/2023)* · força 5
+  Talento guardado é desperdício; servir dá sentido.
+
+- **As pessoas confundem propósito com meta. Meu propósito era ter um hit número um? Isso não é propósito, é meta. Propósito não se alcança. Você avança em direção a ele, você vive ele.**
+  *"People confuse purpose and goals. My purpose was to have a number one hit? Those aren't purposes, those are goals. You can't achieve a purpose. You can advance towards it, you can live it."*
+  *(Purpose vs. Goals | A Bit of Optimism #Podcast, 20/09/2024)* · força 5
+  Quem confunde meta com propósito fica vazio ao atingir a meta.
 
 - **Minha regra sempre foi não tentar convencer quem não quer ser convencido. Porque a única coisa que vai acontecer é briga.**
   *"My rule has never been to try and convince people who don't want to be convinced, because all you're going to do is fight."*
@@ -111,6 +156,16 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Trust Yourself, 25/08/2026)* · força 5
   O desconforto diante de um conselho é sinal de desalinhamento de valores.
 
+- **A parte mais importante da história do Super-Homem não é o Super-Homem. É o Clark Kent.**
+  *"The most important part of the Superman story is not Superman. It's Clark Kent."*
+  *(The True Power of Clark Kent | A Bit of Optimism #Podcast, 13/06/2025)* · força 4 · fala de Brad Meltzer
+  O que conecta é a humanidade, não os superpoderes.
+
+- **Eu não gosto de escrever livros. Isso mexe com todas as minhas fraquezas. Eu aguento porque existe um motivo maior.**
+  *"I don't enjoy writing books. It works to all of my weaknesses. I put up with it because there's a higher reason to."*
+  *(Is the Price of Success Worth the Cost? | Simon Sinek, 01/07/2025)* · força 4
+  Um porquê forte justifica o custo do caminho.
+
 - **Não existe porquê que dá errado. Você só tem um, e ele dura a vida inteira. Se parece mudar, é porque foi mal formulado.**
   *"There's no such thing as a why going wrong. You only have one and it lasts your whole life. If the why truly is changeable, then it's probably poorly articulated."*
   *(Your Why Defines Everything, 12/12/2025)* · força 4
@@ -131,6 +186,11 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Rebel With a Cone, 02/12/2025)* · força 3
   Uma visão forte passa a comandar as decisões e a atrair outras pessoas.
 
+- **Quando você começa pelo porquê, fala direto com a parte do cérebro que controla sentimentos como confiança e lealdade, e todo o comportamento.**
+  *"When you start with why, you're talking directly to the part of the brain that controls feelings like trust and loyalty, and all behavior."*
+  *(How Does the Golden Circle Work? | Simon Sinek, 31/05/2026)* · força 3
+  Inspirar é falar com o cérebro límbico.
+
 
 ## Frases de veredito
 
@@ -138,6 +198,16 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"If your why has your product in it, it's not your why. It's just a statement of product."*
   *(Your Why Defines Everything, 12/12/2025)* · força 5
   O why diz por que você existe, não o que você vende.
+
+- **Just do it não tem nada a ver com ganhar. Tem tudo a ver com tentar. A Nike no seu melhor celebra quem faz, não quem vence.**
+  *"Just do it has nothing to do with winning. It has everything to do with trying. When Nike's at their best, they celebrate the ones who do, not the ones who win."*
+  *(Celebrate the ones who DO, not the ones who WIN, 07/10/2022)* · força 4
+  A causa da Nike é o esforço, não a vitória.
+
+- **A ideia de propósito não tem nada a ver com negócios. É uma necessidade humana profunda. Só calha de ser excepcionalmente bom pros negócios.**
+  *"The idea of purpose has nothing to do with business. It's a deep-seated human need. It just so happens it's exceptionally good for business."*
+  *(I Had Lost My Passion | Simon Sinek, 21/11/2022)* · força 4
+  Propósito é necessidade humana antes de ser estratégia.
 
 - **O jeito de falar com quem adota primeiro é começar pelo porquê. Fale do que você acredita, não do que você faz.**
   *"The way you talk to early adopters is by starting with why. Talk about what you believe, not what you do."*
@@ -159,6 +229,16 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Climb Out of Pain Pt2, 29/04/2025)* · força 4
   Definição de propósito como serviço.
 
+- **A gente tem uma escolha moral. Podemos ser niilistas ou otimistas, porque o jeito como agimos é contagioso.**
+  *"We have a moral choice. We can be nihilists or we can be optimists, because how we act is contagious."*
+  *("How We Act is CONTAGIOUS." | A Bit of Optimism #Podcast, 06/05/2025)* · força 4 · fala de Suzy Welch
+  Viver sem propósito mata a alma de quem está em volta também.
+
+- **Ele me disse: se você está me dizendo que esse livro é mais poderoso, você não tem escolha. Foi para isso que você se alistou.**
+  *"He said: if you're telling me this book is more powerful, you have no choice. This is what you signed up for."*
+  *(How I Finished "Leaders Eat Last" | Simon Sinek, 03/07/2025)* · força 4
+  Quando a missão importa, desistir deixa de ser opção.
+
 - **Arte boa é para os outros. Quando passa a ser para você, para a glória, para os likes, para os seguidores, para o dinheiro, ela perde o sentido.**
   *"Good art should be for others. If it starts being for yourself or for the glory, for the likes, for the followers, for the money, it kind of misses the point."*
   *(Two Years Left, Angela Trimbur, 08/07/2025)* · força 4
@@ -169,15 +249,40 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(What a Company's WHY Means, 27/02/2026)* · força 4
   O WHY é a razão de existir, o produto é só o veículo.
 
+- **Pouquíssimas pessoas e organizações sabem dizer com clareza por que fazem o que fazem. E por quê não quer dizer ganhar dinheiro. Isso é resultado.**
+  *"Very few people and very few organizations can clearly articulate why they do what they do. And by why, I don't mean to make money. That's a result."*
+  *(How Does the Golden Circle Work? | Simon Sinek, 31/05/2026)* · força 4
+  O Círculo Dourado se baseia na biologia da decisão.
+
 - **Viver com propósito nem sempre é uma grande causa nobre. Às vezes é algo pequeno, de todo dia: a alegria de ver alguém se iluminar porque você cuidou dele.**
   *"It's not always some big noble cause. Sometimes it's very small and very daily, and the joy of seeing people light up simply because you took care of somebody."*
   *(Fear Protecting or Holding Back, 30/06/2026)* · força 4
   Propósito se pratica nas interações cotidianas, não só em grandes missões.
 
+- **Sua intuição não está te dizendo o que fazer. Está conferindo os seus valores.**
+  *"Your gut isn't telling you what to do. Your gut is checking your values."*
+  *(Trusting Your Gut ≠ Guessing | Simon Sinek and Mary Holland Nader | A Bit of Optimism, 27/08/2026)* · força 4
+  Instinto é o porquê em ação.
+
 - **Propósito de verdade é a chance de servir quem serve os outros.**
   *"True purpose is the opportunity to serve those who serve others."*
   *(Limits Are Learned, 01/09/2026)* · força 4
   O sentido vem de ajudar quem dedica a vida a servir.
+
+- **Um porquê, um propósito fundador, uma causa, é no fundo uma história de origem.**
+  *"A why, a founding purpose, a cause is fundamentally an origin story."*
+  *(What's Your Origin Story?, 26/09/2026)* · força 4
+  Voltar às raízes revela oportunidades além do produto.
+
+- **Seu porquê é basicamente quem você é quando está no seu melhor natural. Nem sempre a gente está lá, mas saber o que busca vira um norte.**
+  *"Your why is basically who you are when you're at your natural best. We're not always there, but knowing what you're striving for provides a north star."*
+  *(WHY is our North Star, 08/08/2022)* · força 3
+  O porquê é uma direção, não um estado permanente.
+
+- **Eu imagino um mundo em que a grande maioria das pessoas acorda inspirada, se sente segura onde quer que esteja e termina o dia realizada com o que faz. Não vou chegar lá em vida.**
+  *"I imagine a world in which the vast majority of people wake up inspired, feel safe wherever they are, and end the day fulfilled by the work they do. I'll never get there in my lifetime."*
+  *(Inspired, Safe, Fulfilled | Simon Sinek, 13/07/2023)* · força 3
+  Uma causa justa orienta tudo, mesmo sendo inalcançável.
 
 - **Eu não fui o primeiro a falar de sentido no trabalho. Eu só achei uma linguagem certa pro nosso tempo.**
   *"It's not that I was the first person to start talking about meaning at work. It's that I found a language that was right for the times."*
@@ -198,6 +303,11 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"One of the fun things about visionaries is they can see it. They can't always say it."*
   *(Power of Showing Up Now, 19/12/2025)* · força 3
   Às vezes o porta-voz da causa não é o fundador.
+
+- **Servir quem serve os outros é a maior alegria que alguém pode ter na vida.**
+  *"To serve those who serve others is the greatest joy anyone can achieve in life."*
+  *(Parenting and Leadership, 06/06/2026)* · força 3
+  Propósito como serviço.
 
 
 ## Analogias e imagens
@@ -240,6 +350,11 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
 
 ## Casos e histórias
 
+- **O Phil Knight disse: na próxima vez que você estiver correndo antes do sol nascer, no escuro, no frio, na chuva, sozinho, somos nós ali embaixo do poste torcendo por você.**
+  *"Phil Knight said: the next time you're out there before the sun is up, it's dark, cold and wet, and you're running alone, we're the ones under the lamppost cheering you on."*
+  *(Celebrate the ones who DO, not the ones who WIN, 07/10/2022)* · força 5
+  Uma história bem contada traduz o porquê de uma marca num instante.
+
 - **Levaram um dos bolsistas para conversar com os voluntários por cinco minutos. O desempenho disparou. Ficou pessoal.**
   *"They brought in one of the scholarship recipients to talk to the volunteers for five minutes, and all of a sudden performance skyrocketed. It became deeply personal."*
   *(Make It Personal, 19/04/2025)* · força 5
@@ -254,6 +369,16 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *"They pulled cigarettes. This was billions of dollars worth of revenues, not millions, billions. And Wall Street went nuts."*
   *(Short-Term Mistake CVS, 25/09/2026)* · força 5
   Propósito de verdade aparece na decisão que custa caro.
+
+- **Minha vida parecia boa, mas eu não queria mais acordar pra trabalhar. Eu sabia como fazia e o que fazia, mas não sabia por quê.**
+  *"My life looked fine and good, but I didn't want to wake up and go to work anymore. I knew how I did things and what I did, but I didn't know why."*
+  *(I Had Lost My Passion | Simon Sinek, 21/11/2022)* · força 4
+  A origem do Start With Why foi uma crise pessoal de sentido.
+
+- **O mundo pegando fogo do lado de fora da sua casa e você só descobre porque passa um helicóptero de incêndio. Isso faz as pessoas reclamarem. Você foi lá e criou um aplicativo.**
+  *"The world is burning outside your home and you find out because a fire helicopter flies over you. That makes people complain. You went and built an app."*
+  *(Why John Mills Created Watch Duty | A Bit of Optimism #Podcast, 21/01/2025)* · força 4
+  A mesma frustração que gera reclamação pode virar solução.
 
 - **O cara me disse: me convença de que eu devo te contratar. Eu respondi: não precisa. Eu sou a pessoa errada para você.**
   *"He said: convince me why I should hire you. I said: don't. I am the wrong guy for you."*
@@ -270,6 +395,11 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(Magic of Ordinary People, 10/06/2025)* · força 4 · fala de Brad Meltzer
   O que inspira é o comum que quer fazer o bem.
 
+- **Escrever Leaders Eat Last foi a coisa mais difícil que eu já fiz. Uma noite, na minha mesa, eu desisti. Passei por todo o checklist de desistir.**
+  *"Leaders Eat Last was the most difficult thing I ever did. One night at my desk, I gave up. I went through the whole checklist of quitting."*
+  *(How I Finished "Leaders Eat Last" | Simon Sinek, 03/07/2025)* · força 4
+  Até Simon quase largou o livro.
+
 - **Meu amigo me disse: só sei que posso sentar numa sala com você, sem nem conversar, e me sinto inspirado.**
   *"My friend said: All I know is that I can sit in a room with you, I don't even have to talk to you, and I feel inspired."*
   *(Why Are We Friends, 13/02/2026)* · força 4
@@ -280,7 +410,42 @@ Todos os 53 ganchos deste tema, ordenados por força dentro de cada tipo. Use Ct
   *(What a Company's WHY Means, 27/02/2026)* · força 4
   O WHY de origem diz o que não fazer, mesmo se for lucrativo.
 
+- **Meu pai sobreviveu a um campo de concentração. Apesar de tudo, ele enxergava a bondade nos outros. Batizamos a empresa de KIND por causa dele.**
+  *"My father survived a concentration camp. In spite of all he went through, he saw the kindness in others. We named the company KIND after him."*
+  *(How KIND Snacks Got Its Name | A Bit of Optimism #podcast, 31/03/2026)* · força 4 · fala de Daniel Lubetzky
+  O porquê da marca vem da história de vida do fundador.
+
 - **Start With Why não foi exercício acadêmico nem comercial. Nasceu da dor. Nasceu de eu ter perdido a paixão.**
   *"Start With Why was not an academic or commercial exercise. It was born out of pain. It was born out of loss of passion."*
   *(Building Real Trust, 13/05/2026)* · força 4
   A obra dele é semiautobiográfica, nascida de crises reais.
+
+- **Meu amigo disse: Simon, não sei. Só sei que posso ficar numa sala com você, sem nem conversar, e me sinto inspirado. Fiquei arrepiado.**
+  *"My friend said: Simon, I don't know. All I know is I can sit in a room with you, I don't even have to talk to you, and I feel inspired. I got goosebumps."*
+  *(Our WHY and Our Friends | Simon Sinek, 16/05/2026)* · força 4
+  O valor que você tem na vida dos amigos revela o seu porquê.
+
+- **As decisões mais burras que tomei, todas, foram porque achei que alguém era mais esperto que eu. Em quase 100% das vezes, queria ter confiado na minha intuição.**
+  *"The stupidest decisions I made, every single time, were because I thought somebody was smarter than me. Close to 100% of the time, I wish I trusted my gut."*
+  *(Trusting Your Gut ≠ Guessing | Simon Sinek and Mary Holland Nader | A Bit of Optimism, 27/08/2026)* · força 4
+  A intuição checa se a decisão está alinhada aos valores.
+
+- **O Dick Robinson, da Scholastic, trazia a causa em toda reunião: lembrem, é inspirar as crianças a amar ler. As pessoas adoravam. Era por isso que trabalhavam lá.**
+  *"Dick Robinson at Scholastic would bring up the cause in every meeting: remember, it's to inspire kids to love reading. People loved it. That's why they worked there."*
+  *(Embody Love of your Brand | Simon Sinek, 24/10/2022)* · força 3
+  Liderança sênior precisa repetir a causa sem presumir que todos já sabem.
+
+- **O Comece pelo Porquê era uma teoria, e eu saí testando procurando onde ela falharia. Governo, empresa grande, empresa pequena. Testei em todo lugar querendo que desse errado.**
+  *"Start With Why was a theory, and I set out to test it looking for opportunities for it to fail. Government, big business, small business. I tried every place wanting it to fail."*
+  *(I Still Start with WHY | Simon Sinek, 20/04/2023)* · força 3
+  Uma ideia ganha força quando a gente tenta derrubá-la e ela resiste.
+
+- **Sempre tem um pouco de laranja em alguma parte da minha roupa. Eu sou humano, às vezes esqueço meu próprio porquê. Olhar pro laranja me lembra de ser luminoso e otimista.**
+  *"There's always a little bit of orange somewhere on my person. I am human, sometimes I forget my own why. Looking at orange reminds me to be bright and optimistic."*
+  *(A Symbol of My Cause | Simon Sinek, 20/07/2023)* · força 3
+  Símbolos físicos lembram o propósito no meio da rotina.
+
+- **Minha teoria aos 12 anos era que o jeito certo de deixar o mundo mais pacífico era virar diretor da CIA. Aí meu pai me deu um livro sobre os crimes dela.**
+  *"My 12-year-old theory was that the right way to make the world more peaceful was to become director of the CIA. Then my dad bought me a book on its crimes."*
+  *(Confessions of a LinkedIn Co-Founder | A Bit of Optimism #Podcast, 17/09/2025)* · força 2 · fala de Reid Hoffman
+  A vontade de melhorar o mundo vem antes do caminho.
